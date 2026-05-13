@@ -37,11 +37,10 @@ Data disimpan secara lokal menggunakan SQLite sehingga aplikasi dapat digunakan 
 
 ```bash
 lib/
-├── main.dart
-├── pages/
-├── models/
-├── services/
-└── widgets/
+├── database/
+│   ├── database.dart
+│   └── model.dart
+└── mainpage.dart
 ```
 
 🎯 Tujuan Project
