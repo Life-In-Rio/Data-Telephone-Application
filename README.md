@@ -52,3 +52,5 @@ Project ini dibuat untuk mempelajari:
 - Penggunaan SQLite
 - Manajemen database lokal
 - Pembuatan UI sederhana
+
+# Develop by Mas Rusdi Ambangawi 🚀
